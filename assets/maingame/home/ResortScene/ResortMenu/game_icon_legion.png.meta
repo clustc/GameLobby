@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5893fe8a-9d0d-4478-9050-29ea08884252",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "game_icon_legion": {
+      "ver": "1.0.3",
+      "uuid": "2af80e0c-0c54-4e26-b96e-045852e89121",
+      "rawTextureUuid": "5893fe8a-9d0d-4478-9050-29ea08884252",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 2,
+      "width": 294,
+      "height": 306,
+      "rawWidth": 300,
+      "rawHeight": 310,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

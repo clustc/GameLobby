@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4d448bc9-c5be-4056-a809-47ee3a1f9b98",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "LoginSceneDragonBones_tex": {
+      "ver": "1.0.3",
+      "uuid": "a1a2efa8-9ff8-4302-bcd8-a7dfce37a151",
+      "rawTextureUuid": "4d448bc9-c5be-4056-a809-47ee3a1f9b98",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 68.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 2043,
+      "height": 1909,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

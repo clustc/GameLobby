@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9f215d63-07e9-4a9a-bd33-fe8c7582acf8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fenshen_0006_gh07": {
+      "ver": "1.0.3",
+      "uuid": "78b185af-bd1c-4207-b94f-cf5358741a94",
+      "rawTextureUuid": "9f215d63-07e9-4a9a-bd33-fe8c7582acf8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 90,
+      "height": 93,
+      "rawWidth": 90,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

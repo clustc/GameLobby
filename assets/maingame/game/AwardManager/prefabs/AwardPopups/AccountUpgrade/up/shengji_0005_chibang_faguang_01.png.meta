@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2a7fc86e-7b81-4488-947b-6802df3e8815",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shengji_0005_chibang_faguang_01": {
+      "ver": "1.0.3",
+      "uuid": "70d6bd11-6a85-47da-8c36-1d5a8ceb313f",
+      "rawTextureUuid": "2a7fc86e-7b81-4488-947b-6802df3e8815",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 182,
+      "height": 193,
+      "rawWidth": 182,
+      "rawHeight": 193,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

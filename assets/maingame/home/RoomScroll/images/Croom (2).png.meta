@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "12b84126-8ac6-4667-b11b-6ebe99ee4439",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Croom (2)": {
+      "ver": "1.0.3",
+      "uuid": "7bd08820-2757-4eba-8d06-18c62f03e646",
+      "rawTextureUuid": "12b84126-8ac6-4667-b11b-6ebe99ee4439",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 290,
+      "height": 130,
+      "rawWidth": 290,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

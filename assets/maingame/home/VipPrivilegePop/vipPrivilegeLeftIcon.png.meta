@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b645e03f-cd8f-4e22-aaed-7b6fa74cd816",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "vipPrivilegeLeftIcon": {
+      "ver": "1.0.3",
+      "uuid": "571bd0f6-73dd-456e-bcb3-d92ad683d305",
+      "rawTextureUuid": "b645e03f-cd8f-4e22-aaed-7b6fa74cd816",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 35,
+      "height": 137,
+      "rawWidth": 36,
+      "rawHeight": 138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

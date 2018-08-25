@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_shuimu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "suimu_0001": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "bc6b5616-9210-4ef3-8766-7fe1942af691"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "d1a5262a-2035-4e49-8183-9955ffa81359"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "9bce2468-98c3-4cc0-abc3-d4344e17b3d6"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "83e224c8-f26a-4bae-85be-e46f61b9a813"
+                }
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "451e9003-c223-4a43-a25d-51987c921b7e"
+                }
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": {
+                  "__uuid__": "287cbaa4-480e-46d3-9116-9e9746224a02"
+                }
+              },
+              {
+                "frame": 0.9166666666666666,
+                "value": {
+                  "__uuid__": "287cbaa4-480e-46d3-9116-9e9746224a02"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7bfb033f-58e3-46a4-b6df-4eef865a54d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "txtTapDrawIphone": {
+      "ver": "1.0.3",
+      "uuid": "7cc6f644-6447-4f22-8628-8a984e11c3e9",
+      "rawTextureUuid": "7bfb033f-58e3-46a4-b6df-4eef865a54d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 236,
+      "height": 30,
+      "rawWidth": 240,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

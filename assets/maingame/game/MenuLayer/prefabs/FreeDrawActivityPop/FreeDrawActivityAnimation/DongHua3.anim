@@ -1,0 +1,555 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "DongHua3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 10,
+  "sample": 60,
+  "speed": 0.8,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "BeiGuangB1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 140
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 140
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 140
+            },
+            {
+              "frame": 3.5,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 140
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 140
+            },
+            {
+              "frame": 5.5,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 140
+            },
+            {
+              "frame": 6.5,
+              "value": 255
+            },
+            {
+              "frame": 7,
+              "value": 140
+            },
+            {
+              "frame": 7.5,
+              "value": 255
+            },
+            {
+              "frame": 8,
+              "value": 140
+            },
+            {
+              "frame": 8.5,
+              "value": 255
+            },
+            {
+              "frame": 9,
+              "value": 140
+            },
+            {
+              "frame": 9.5,
+              "value": 255
+            },
+            {
+              "frame": 10,
+              "value": 140
+            }
+          ]
+        }
+      },
+      "BeiGuangB2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 140
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 140
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 140
+            },
+            {
+              "frame": 3.5,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 140
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 140
+            },
+            {
+              "frame": 5.5,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 140
+            },
+            {
+              "frame": 6.5,
+              "value": 255
+            },
+            {
+              "frame": 7,
+              "value": 140
+            },
+            {
+              "frame": 7.5,
+              "value": 255
+            },
+            {
+              "frame": 8,
+              "value": 140
+            },
+            {
+              "frame": 8.5,
+              "value": 255
+            },
+            {
+              "frame": 9,
+              "value": 140
+            },
+            {
+              "frame": 9.5,
+              "value": 255
+            },
+            {
+              "frame": 10,
+              "value": 140
+            }
+          ]
+        }
+      },
+      "BeiGuangB3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 140
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 140
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 140
+            },
+            {
+              "frame": 3.5,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 140
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 140
+            },
+            {
+              "frame": 5.5,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 140
+            },
+            {
+              "frame": 6.5,
+              "value": 255
+            },
+            {
+              "frame": 7,
+              "value": 140
+            },
+            {
+              "frame": 7.5,
+              "value": 255
+            },
+            {
+              "frame": 8,
+              "value": 140
+            },
+            {
+              "frame": 8.5,
+              "value": 255
+            },
+            {
+              "frame": 9,
+              "value": 140
+            },
+            {
+              "frame": 9.5,
+              "value": 255
+            },
+            {
+              "frame": 10,
+              "value": 140
+            }
+          ]
+        }
+      },
+      "BeiGuangB4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 140
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 140
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 140
+            },
+            {
+              "frame": 3.5,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 140
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 140
+            },
+            {
+              "frame": 5.5,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 140
+            },
+            {
+              "frame": 6.5,
+              "value": 255
+            },
+            {
+              "frame": 7,
+              "value": 140
+            },
+            {
+              "frame": 7.5,
+              "value": 255
+            },
+            {
+              "frame": 8,
+              "value": 140
+            },
+            {
+              "frame": 8.5,
+              "value": 255
+            },
+            {
+              "frame": 9,
+              "value": 140
+            },
+            {
+              "frame": 9.5,
+              "value": 255
+            },
+            {
+              "frame": 10,
+              "value": 140
+            }
+          ]
+        }
+      },
+      "BeiGuangB5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 140
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 140
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 140
+            },
+            {
+              "frame": 3.5,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 140
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 140
+            },
+            {
+              "frame": 5.5,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 140
+            },
+            {
+              "frame": 6.5,
+              "value": 255
+            },
+            {
+              "frame": 7,
+              "value": 140
+            },
+            {
+              "frame": 7.5,
+              "value": 255
+            },
+            {
+              "frame": 8,
+              "value": 140
+            },
+            {
+              "frame": 8.5,
+              "value": 255
+            },
+            {
+              "frame": 9,
+              "value": 140
+            },
+            {
+              "frame": 9.5,
+              "value": 255
+            },
+            {
+              "frame": 10,
+              "value": 140
+            }
+          ]
+        }
+      },
+      "BeiGuangB6": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 140
+            },
+            {
+              "frame": 1.5,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 140
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3,
+              "value": 140
+            },
+            {
+              "frame": 3.5,
+              "value": 255
+            },
+            {
+              "frame": 4,
+              "value": 140
+            },
+            {
+              "frame": 4.483333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 140
+            },
+            {
+              "frame": 5.5,
+              "value": 255
+            },
+            {
+              "frame": 6,
+              "value": 140
+            },
+            {
+              "frame": 6.5,
+              "value": 255
+            },
+            {
+              "frame": 7,
+              "value": 140
+            },
+            {
+              "frame": 7.5,
+              "value": 255
+            },
+            {
+              "frame": 8,
+              "value": 140
+            },
+            {
+              "frame": 8.5,
+              "value": 255
+            },
+            {
+              "frame": 9,
+              "value": 140
+            },
+            {
+              "frame": 9.5,
+              "value": 255
+            },
+            {
+              "frame": 10,
+              "value": 140
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

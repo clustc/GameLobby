@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2459e07f-260b-4728-8e35-860843506e52",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "signatureButton": {
+      "ver": "1.0.3",
+      "uuid": "520ddaa7-c9ec-48af-851b-5868c5adce34",
+      "rawTextureUuid": "2459e07f-260b-4728-8e35-860843506e52",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 58,
+      "height": 64,
+      "rawWidth": 58,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

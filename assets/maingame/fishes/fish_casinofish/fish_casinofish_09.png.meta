@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c1b030cd-1d99-44f5-908d-dec0fd3f9e4d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fish_casinofish_09": {
+      "ver": "1.0.3",
+      "uuid": "03389b46-9f3d-40cc-b69a-504ea2bb831e",
+      "rawTextureUuid": "c1b030cd-1d99-44f5-908d-dec0fd3f9e4d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": -0.5,
+      "trimX": 12,
+      "trimY": 1,
+      "width": 178,
+      "height": 166,
+      "rawWidth": 198,
+      "rawHeight": 167,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

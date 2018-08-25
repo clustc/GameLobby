@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "637215db-5028-4cf9-b760-04b3ca46f781",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "celeBrityListLeaveMsgTitleText": {
+      "ver": "1.0.3",
+      "uuid": "b217837e-26f2-4bf5-80d7-866275c00967",
+      "rawTextureUuid": "637215db-5028-4cf9-b760-04b3ca46f781",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 79,
+      "height": 40,
+      "rawWidth": 83,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "aba2a6a7-da6f-4574-b275-2452d0e4e3ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "baiguang_sucai_01": {
+      "ver": "1.0.3",
+      "uuid": "77c14ab6-2049-4b4b-bca2-c4a4d76761c0",
+      "rawTextureUuid": "aba2a6a7-da6f-4574-b275-2452d0e4e3ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 1.5,
+      "trimX": 18,
+      "trimY": 17,
+      "width": 345,
+      "height": 347,
+      "rawWidth": 384,
+      "rawHeight": 384,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

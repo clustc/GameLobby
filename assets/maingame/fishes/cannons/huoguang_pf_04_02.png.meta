@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d1428a07-a5f4-4513-af90-d653c2418443",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "huoguang_pf_04_02": {
+      "ver": "1.0.3",
+      "uuid": "1e964227-d3dd-4528-95c5-c98a2cc9f2b9",
+      "rawTextureUuid": "d1428a07-a5f4-4513-af90-d653c2418443",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 53,
+      "height": 72,
+      "rawWidth": 53,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

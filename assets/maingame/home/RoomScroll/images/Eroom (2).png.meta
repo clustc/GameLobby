@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "07edbb59-6251-4774-b7f0-b5ebe6489836",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Eroom (2)": {
+      "ver": "1.0.3",
+      "uuid": "6ec347d7-a1b4-4b74-a71d-56aa427dc365",
+      "rawTextureUuid": "07edbb59-6251-4774-b7f0-b5ebe6489836",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 290,
+      "height": 130,
+      "rawWidth": 290,
+      "rawHeight": 130,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

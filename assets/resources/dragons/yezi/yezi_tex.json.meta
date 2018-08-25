@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d47ad8bb-d27e-4c7c-9bec-7245690da5c3",
+  "atlasJson": "{\"width\":512,\"imagePath\":\"yezi_tex.png\",\"height\":256,\"name\":\"yezi\",\"SubTexture\":[{\"width\":226,\"y\":1,\"height\":252,\"name\":\"兑奖__0003_yezi_02\",\"x\":1},{\"width\":210,\"y\":1,\"height\":226,\"name\":\"兑奖__0002_yezi_01\",\"x\":229}]}",
+  "texture": "82267884-46dd-49d8-b910-6452cd3d61de",
+  "subMetas": {}
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "552440f7-36ad-469c-b204-78814c7c7f77",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "celebrityListMessageBg": {
+      "ver": "1.0.3",
+      "uuid": "6ac5877d-b15d-4bd0-b3ac-cfcce71efc7e",
+      "rawTextureUuid": "552440f7-36ad-469c-b204-78814c7c7f77",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 36,
+      "trimX": 144,
+      "trimY": 248,
+      "width": 698,
+      "height": 450,
+      "rawWidth": 987,
+      "rawHeight": 1018,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

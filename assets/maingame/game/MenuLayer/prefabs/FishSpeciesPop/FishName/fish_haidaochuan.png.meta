@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "47fa94df-b512-4f98-abce-d5bb2f86a5be",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fish_haidaochuan": {
+      "ver": "1.0.3",
+      "uuid": "18a2de40-e165-447f-ae2e-588d58d2b4a5",
+      "rawTextureUuid": "47fa94df-b512-4f98-abce-d5bb2f86a5be",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 13,
+      "trimY": 2,
+      "width": 72,
+      "height": 25,
+      "rawWidth": 98,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

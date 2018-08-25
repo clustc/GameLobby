@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zhuanpan_3_x",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "3_3_x": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 100
+            },
+            {
+              "frame": 2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "3_1_x": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "3_2_x": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2,
+              "value": -360
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

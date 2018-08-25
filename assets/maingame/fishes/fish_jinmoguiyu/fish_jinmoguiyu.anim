@@ -1,0 +1,89 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fish_jinmoguiyu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.9166666666666666,
+  "sample": 12,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "jinmoguiyu_0001": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "33b0e727-0a2c-4fed-9e03-fb2458084d9d"
+                }
+              },
+              {
+                "frame": 0.08333333333333333,
+                "value": {
+                  "__uuid__": "1ebb3070-d03f-40f0-882b-d5af6dc63c38"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "f7cc49ef-a463-4091-ba0f-9e789d9082a1"
+                }
+              },
+              {
+                "frame": 0.25,
+                "value": {
+                  "__uuid__": "5631678e-51a3-477b-8df6-488edee86325"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "a88d76da-d13f-4715-a608-149eef88a53e"
+                }
+              },
+              {
+                "frame": 0.4166666666666667,
+                "value": {
+                  "__uuid__": "fcace4a8-a2d1-45d0-8325-79fd7a52b2c7"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "b59f94c0-1275-4e9d-b716-30eea6413055"
+                }
+              },
+              {
+                "frame": 0.5833333333333334,
+                "value": {
+                  "__uuid__": "70a15f11-8b0c-4a9a-a234-893c811c7623"
+                }
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "78df1293-7426-4617-937f-d30c084032c6"
+                }
+              },
+              {
+                "frame": 0.75,
+                "value": {
+                  "__uuid__": "754af8e2-8cf8-4204-9cba-cdeb5294fe72"
+                }
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": {
+                  "__uuid__": "e0f315a7-ade2-499a-8f98-8d3a18216b36"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

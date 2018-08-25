@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "435bd85e-f80c-4088-af5a-9e5a9392c69e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sheguang_fasan_1": {
+      "ver": "1.0.3",
+      "uuid": "8a884793-732f-4e1a-b4d0-88e69c836a86",
+      "rawTextureUuid": "435bd85e-f80c-4088-af5a-9e5a9392c69e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -7.5,
+      "trimX": 0,
+      "trimY": 15,
+      "width": 324,
+      "height": 340,
+      "rawWidth": 334,
+      "rawHeight": 355,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

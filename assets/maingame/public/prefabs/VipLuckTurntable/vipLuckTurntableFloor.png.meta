@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6c4c71f1-1c22-4041-8e13-2b68c336835d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "vipLuckTurntableFloor": {
+      "ver": "1.0.3",
+      "uuid": "67eb07a5-0f6f-485c-aaac-00b36ed9c521",
+      "rawTextureUuid": "6c4c71f1-1c22-4041-8e13-2b68c336835d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": -23,
+      "trimX": 15,
+      "trimY": 50,
+      "width": 593,
+      "height": 552,
+      "rawWidth": 614,
+      "rawHeight": 606,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

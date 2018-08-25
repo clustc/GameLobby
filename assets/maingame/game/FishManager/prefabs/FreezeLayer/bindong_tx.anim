@@ -1,0 +1,159 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bindong_tx",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "bingdong_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.25,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "bingdong_02": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.11666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            },
+            {
+              "frame": 0.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bingdong_03": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.25,
+              "value": 0
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "baiguang_sucai_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 50
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 4
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 4
+            }
+          ]
+        }
+      },
+      "bingdong_04": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.36666666666666664,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bingdong_05": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6166666666666667,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

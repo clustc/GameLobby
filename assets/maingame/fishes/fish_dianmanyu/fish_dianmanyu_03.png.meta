@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "90a2b328-8e5c-4874-842a-4293697fa2b8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fish_dianmanyu_03": {
+      "ver": "1.0.3",
+      "uuid": "0f5f8edf-4730-4abb-868a-a600c49f3a34",
+      "rawTextureUuid": "90a2b328-8e5c-4874-842a-4293697fa2b8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 5,
+      "width": 291,
+      "height": 90,
+      "rawWidth": 293,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

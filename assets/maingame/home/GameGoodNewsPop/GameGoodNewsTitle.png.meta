@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bc67f7d1-4128-4d90-b574-0eb94198b7c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GameGoodNewsTitle": {
+      "ver": "1.0.3",
+      "uuid": "a4eca82d-cf41-4c56-887b-077de242fd6d",
+      "rawTextureUuid": "bc67f7d1-4128-4d90-b574-0eb94198b7c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 159,
+      "height": 40,
+      "rawWidth": 163,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

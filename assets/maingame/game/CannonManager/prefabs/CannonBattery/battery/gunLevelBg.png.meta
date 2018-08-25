@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "04cf9ae4-9037-457d-80a0-9888e44f0deb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "gunLevelBg": {
+      "ver": "1.0.3",
+      "uuid": "692489a1-d4c8-4b06-9043-7b523bb10208",
+      "rawTextureUuid": "04cf9ae4-9037-457d-80a0-9888e44f0deb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 149,
+      "height": 34,
+      "rawWidth": 149,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

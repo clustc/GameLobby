@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shouchongtehui",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 4.583333333333333,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "sheguang_fasan_2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4.583333333333333,
+              "value": 360
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.041666666666666664,
+              "value": 150
+            }
+          ]
+        }
+      },
+      "data.dat_000488": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.7
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 55
+            },
+            {
+              "frame": 4.583333333333333,
+              "value": -305
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "25e08127-8554-4511-b509-8331afe1b02b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GaungAE2": {
+      "ver": "1.0.3",
+      "uuid": "db10921d-28e7-4c32-b5bd-8712d1440b9c",
+      "rawTextureUuid": "25e08127-8554-4511-b509-8331afe1b02b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 432,
+      "height": 458,
+      "rawWidth": 432,
+      "rawHeight": 458,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

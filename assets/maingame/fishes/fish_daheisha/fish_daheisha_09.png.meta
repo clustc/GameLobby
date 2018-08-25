@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ccbe6ec9-f8f8-4229-96b7-7b55516f7d0e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fish_daheisha_09": {
+      "ver": "1.0.3",
+      "uuid": "5ba1806d-0e54-4ef6-855b-403374c525c5",
+      "rawTextureUuid": "ccbe6ec9-f8f8-4229-96b7-7b55516f7d0e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 5,
+      "trimX": 0,
+      "trimY": 18,
+      "width": 335,
+      "height": 154,
+      "rawWidth": 335,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

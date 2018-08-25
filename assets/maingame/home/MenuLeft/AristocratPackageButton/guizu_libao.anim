@@ -1,0 +1,170 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guizu_libao",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "guizu_libao": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.11666666666666667,
+              "value": [
+                0,
+                -54
+              ]
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": [
+                0,
+                -46
+              ]
+            },
+            {
+              "frame": 0.45,
+              "value": [
+                0,
+                -54
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 1.06
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 0.93
+            },
+            {
+              "frame": 0.45,
+              "value": 0.93
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 1.04
+            },
+            {
+              "frame": 0.7,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 0.93
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": 1.08
+            },
+            {
+              "frame": 0.45,
+              "value": 1.08
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 0.96
+            },
+            {
+              "frame": 0.7,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "guizu_libao/guizu_0002": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0.7,
+                "value": {
+                  "__uuid__": "bd4a2f26-2c42-4b31-aa29-ab21b4ffe1de"
+                }
+              },
+              {
+                "frame": 0.7666666666666667,
+                "value": {
+                  "__uuid__": "ea6172fa-bbaf-479f-9705-e4dd694a6aae"
+                }
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": {
+                  "__uuid__": "7fc2f3cd-9fdc-4023-a58e-7e71fa2d3599"
+                }
+              },
+              {
+                "frame": 0.9,
+                "value": {
+                  "__uuid__": "04be000d-ad89-4168-9d2b-8d4a24a75aa1"
+                }
+              },
+              {
+                "frame": 0.9666666666666667,
+                "value": {
+                  "__uuid__": "bcf70052-9754-40c0-ae84-f4a982646135"
+                }
+              },
+              {
+                "frame": 1.0333333333333334,
+                "value": {
+                  "__uuid__": "954c108f-581a-4d80-adf7-296d03c095bd"
+                }
+              },
+              {
+                "frame": 1.1,
+                "value": {
+                  "__uuid__": "a2538121-6149-4861-b03d-82afe6dba2f8"
+                }
+              },
+              {
+                "frame": 1.1666666666666667,
+                "value": {
+                  "__uuid__": "b856a6e3-0fb7-4cd6-8e30-5844fdcf9c44"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.25,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

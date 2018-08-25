@@ -1,0 +1,309 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "clip_1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "bf_huangse_sheguang_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 2.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 2.5
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bf_huangse_sheguang_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0.5,
+              "value": 180
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 2.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 2.5
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bf_baofu_gq_1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "bf_baofu_gq_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 51.20816326530613
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1.7571428571428571
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1.7571428571428571
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "sheguang_fasan_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": -60
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "sheguang_fasan_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 300
+            },
+            {
+              "frame": 0.5,
+              "value": 360
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      },
+      "node_item": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1.1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.95
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 1.1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0.95
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

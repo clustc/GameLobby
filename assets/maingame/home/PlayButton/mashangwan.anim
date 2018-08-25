@@ -1,0 +1,154 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mashangwan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "mashangwan_xiaoyu": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -129.7,
+                13.1
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                -129.7,
+                20.1
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -129.7,
+                13.1
+              ]
+            }
+          ]
+        }
+      },
+      "jiantou_mashangwan_01": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1.3
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1.3
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "mashangwan_wenzi_02": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.2
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.2
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "mashangwan_wenzi_01": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.2
+            },
+            {
+              "frame": 2,
+              "value": 1.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 1.2
+            },
+            {
+              "frame": 2,
+              "value": 1.5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.9833333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

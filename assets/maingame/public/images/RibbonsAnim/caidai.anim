@@ -1,0 +1,630 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "caidai",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 11.4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "caidai1": {
+        "props": {
+          "position": [
+            {
+              "frame": 2,
+              "value": [
+                -629,
+                426
+              ],
+              "motionPath": [
+                [
+                  -556,
+                  10,
+                  -774,
+                  225,
+                  -424,
+                  -141
+                ]
+              ]
+            },
+            {
+              "frame": 6,
+              "value": [
+                -478,
+                -436
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 2,
+              "value": 0
+            },
+            {
+              "frame": 6,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "caidai5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -462,
+                448
+              ],
+              "motionPath": [
+                [
+                  -391,
+                  38,
+                  -334,
+                  261,
+                  -442,
+                  -218
+                ]
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -310,
+                -428
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4,
+              "value": 480
+            }
+          ]
+        }
+      },
+      "caidai6": {
+        "props": {
+          "position": [
+            {
+              "frame": 3.5833333333333335,
+              "value": [
+                -197,
+                473
+              ],
+              "motionPath": [
+                [
+                  -215,
+                  32,
+                  -33,
+                  282,
+                  -356,
+                  -203
+                ]
+              ]
+            },
+            {
+              "frame": 7.583333333333333,
+              "value": [
+                -235,
+                -466
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 3.5833333333333335,
+              "value": 0
+            },
+            {
+              "frame": 7.583333333333333,
+              "value": 250
+            }
+          ]
+        }
+      },
+      "caidai4": {
+        "props": {
+          "position": [
+            {
+              "frame": 1.7666666666666666,
+              "value": [
+                -127,
+                421
+              ],
+              "motionPath": [
+                [
+                  -16,
+                  -22,
+                  398,
+                  208,
+                  -442,
+                  -219
+                ]
+              ]
+            },
+            {
+              "frame": 5.783333333333333,
+              "value": [
+                215,
+                -468
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 1.7666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 5.783333333333333,
+              "value": 360
+            }
+          ]
+        }
+      },
+      "caidai2": {
+        "props": {
+          "position": [
+            {
+              "frame": 3,
+              "value": [
+                262,
+                465
+              ],
+              "motionPath": [
+                [
+                  386,
+                  51,
+                  119,
+                  226,
+                  711,
+                  -73
+                ]
+              ]
+            },
+            {
+              "frame": 7,
+              "value": [
+                530,
+                -426
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 7,
+              "value": 420
+            }
+          ]
+        }
+      },
+      "caidai3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                556,
+                424
+              ],
+              "motionPath": [
+                [
+                  546,
+                  2,
+                  716,
+                  179,
+                  395,
+                  -201
+                ]
+              ]
+            },
+            {
+              "frame": 4.033333333333333,
+              "value": [
+                535,
+                -457
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4.033333333333333,
+              "value": 300
+            }
+          ]
+        }
+      },
+      "sidai1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                192,
+                529
+              ],
+              "motionPath": [
+                [
+                  54,
+                  48,
+                  -68,
+                  409,
+                  204,
+                  -289
+                ]
+              ]
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": [
+                -139,
+                -467
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 4.016666666666667,
+              "value": 250
+            }
+          ]
+        }
+      },
+      "sidai2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.8666666666666667,
+              "value": [
+                585,
+                469
+              ],
+              "motionPath": [
+                [
+                  329,
+                  1,
+                  293,
+                  376,
+                  444,
+                  -334
+                ]
+              ]
+            },
+            {
+              "frame": 5.9,
+              "value": [
+                76,
+                -460
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.8666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 5.883333333333334,
+              "value": 530
+            }
+          ]
+        }
+      },
+      "sidai3": {
+        "props": {
+          "position": [
+            {
+              "frame": 6,
+              "value": [
+                -606,
+                477
+              ],
+              "motionPath": [
+                [
+                  -223,
+                  50,
+                  -720,
+                  124,
+                  192,
+                  -40
+                ]
+              ]
+            },
+            {
+              "frame": 10,
+              "value": [
+                127,
+                -456
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 6,
+              "value": 0
+            },
+            {
+              "frame": 10,
+              "value": 420
+            }
+          ]
+        }
+      },
+      "sidai4": {
+        "props": {
+          "position": [
+            {
+              "frame": 4.216666666666667,
+              "value": [
+                382,
+                504
+              ],
+              "motionPath": [
+                [
+                  195,
+                  40,
+                  535,
+                  209,
+                  -107,
+                  -103
+                ]
+              ]
+            },
+            {
+              "frame": 8.116666666666667,
+              "value": [
+                6,
+                -428
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 4.216666666666667,
+              "value": 0
+            },
+            {
+              "frame": 8.116666666666667,
+              "value": 400
+            }
+          ]
+        }
+      },
+      "caidai7": {
+        "props": {
+          "position": [
+            {
+              "frame": 6.616666666666666,
+              "value": [
+                580,
+                425
+              ],
+              "motionPath": [
+                [
+                  342,
+                  -9,
+                  283,
+                  279,
+                  427,
+                  -307
+                ]
+              ]
+            },
+            {
+              "frame": 10.583333333333334,
+              "value": [
+                116,
+                -420
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 6.616666666666666,
+              "value": 0
+            },
+            {
+              "frame": 10.583333333333334,
+              "value": 400
+            }
+          ]
+        }
+      },
+      "caidai8": {
+        "props": {
+          "position": [
+            {
+              "frame": 6.95,
+              "value": [
+                -237,
+                464
+              ],
+              "motionPath": [
+                [
+                  -407,
+                  27,
+                  -421,
+                  296,
+                  -417,
+                  -259
+                ]
+              ]
+            },
+            {
+              "frame": 10.383333333333333,
+              "value": [
+                -707,
+                -460
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 6.95,
+              "value": 0
+            },
+            {
+              "frame": 10.383333333333333,
+              "value": 430
+            }
+          ]
+        }
+      },
+      "caidai9": {
+        "props": {
+          "position": [
+            {
+              "frame": 5.283333333333333,
+              "value": [
+                -77,
+                464
+              ],
+              "motionPath": [
+                [
+                  -117,
+                  37,
+                  72,
+                  260,
+                  -406,
+                  -172
+                ]
+              ]
+            },
+            {
+              "frame": 8.633333333333333,
+              "value": [
+                -236,
+                -461
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 5.283333333333333,
+              "value": 0
+            },
+            {
+              "frame": 8.633333333333333,
+              "value": 460
+            }
+          ]
+        }
+      },
+      "caidai10": {
+        "props": {
+          "position": [
+            {
+              "frame": 7.616666666666666,
+              "value": [
+                471,
+                451
+              ],
+              "motionPath": [
+                [
+                  293,
+                  -19,
+                  571,
+                  108,
+                  -40,
+                  -99
+                ]
+              ]
+            },
+            {
+              "frame": 11.4,
+              "value": [
+                87,
+                -492
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 7.616666666666666,
+              "value": 0
+            },
+            {
+              "frame": 11.4,
+              "value": 450
+            }
+          ]
+        }
+      },
+      "caidai11": {
+        "props": {
+          "position": [
+            {
+              "frame": 8.1,
+              "value": [
+                -595,
+                451
+              ],
+              "motionPath": [
+                [
+                  -469,
+                  4,
+                  -718,
+                  140,
+                  -156,
+                  -117
+                ]
+              ]
+            },
+            {
+              "frame": 11.133333333333333,
+              "value": [
+                -243,
+                -439
+              ],
+              "motionPath": []
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 8.1,
+              "value": 0
+            },
+            {
+              "frame": 11.133333333333333,
+              "value": 360
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

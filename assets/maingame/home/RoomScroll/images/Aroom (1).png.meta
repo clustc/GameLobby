@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "340de7ba-ee72-461f-b9b3-ad1d26bb775b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Aroom (1)": {
+      "ver": "1.0.3",
+      "uuid": "b009756d-58d0-49c6-b8aa-aa75d21f782b",
+      "rawTextureUuid": "340de7ba-ee72-461f-b9b3-ad1d26bb775b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 217,
+      "height": 97,
+      "rawWidth": 218,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

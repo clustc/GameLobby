@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c6f0b81d-8a99-4e8f-b829-ae8d6dc4daca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fish_jinhama_01": {
+      "ver": "1.0.3",
+      "uuid": "d63c5d80-69f3-4ab3-a9de-f6a1c297a878",
+      "rawTextureUuid": "c6f0b81d-8a99-4e8f-b829-ae8d6dc4daca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 241,
+      "height": 232,
+      "rawWidth": 242,
+      "rawHeight": 233,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

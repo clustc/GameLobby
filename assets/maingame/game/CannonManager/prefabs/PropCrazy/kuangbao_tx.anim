@@ -1,0 +1,245 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "kuangbao_tx",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "x_0005_kuangbao_1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 0.5,
+              "value": 150
+            },
+            {
+              "frame": 1,
+              "value": 100
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 180
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "x_0004_kuangbao_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -180
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 180
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "x_0003_kuangbao_3": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.05,
+              "value": 9
+            },
+            {
+              "frame": 1,
+              "value": 180
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "x_0000_kuangbao_6": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 180
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "x_0002_kuangbao_4": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 180
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 150
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ]
+        }
+      },
+      "x_0001_kuangbao_5": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 100
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 100
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": -180
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

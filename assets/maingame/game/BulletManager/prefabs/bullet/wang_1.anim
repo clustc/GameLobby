@@ -1,0 +1,646 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "wang_1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "wang_1_1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.37,
+                0.03,
+                0.92,
+                0.21
+              ]
+            },
+            {
+              "frame": 0.05,
+              "value": 1.4
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 0.9
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.37,
+                0.03,
+                0.92,
+                0.21
+              ]
+            },
+            {
+              "frame": 0.05,
+              "value": 1.4
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 0.9
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.05,
+              "value": 255
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "paopao/super_01": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.016666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "opacity": [],
+          "position": [
+            {
+              "frame": 0.016666666666666666,
+              "value": [
+                11.1,
+                1.5
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                113.6,
+                32
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "paopao/super_02": {
+        "props": {
+          "opacity": [],
+          "scaleX": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                7.4,
+                11.5
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": [
+                49,
+                107.1
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "paopao/super_03": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.15,
+              "value": 1
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.15,
+              "value": 1
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": 0
+            }
+          ],
+          "opacity": [],
+          "position": [
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                7.2,
+                -8
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": [
+                99.6,
+                -61
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "paopao/super_04": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.03333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "opacity": [],
+          "position": [
+            {
+              "frame": 0.03333333333333333,
+              "value": [
+                5.4,
+                -8.9
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -78.1,
+                -110.9
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "paopao/super_05": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.65,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 0.65,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                4.8,
+                1.7
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.65,
+              "value": [
+                -109.5,
+                -25
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": []
+        }
+      },
+      "paopao/super_06": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.05,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.05,
+              "value": 0
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.05,
+              "value": [
+                3.3,
+                -3
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                -62.6,
+                81.6
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": []
+        }
+      },
+      "paopao/super_07": {
+        "props": {
+          "opacity": [],
+          "scaleX": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.13333333333333333,
+              "value": [
+                -2.6,
+                4.8
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                43.5,
+                -123.8
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "paopao/super_08": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.06666666666666667,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": [
+                -116.9,
+                -59.2
+              ],
+              "motionPath": []
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.06666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.38333333333333336,
+              "value": 0
+            }
+          ],
+          "opacity": []
+        }
+      },
+      "paopao/super_09": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.11666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.11666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 1
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.11666666666666667,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": [
+                31,
+                88.4
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": []
+        }
+      },
+      "paopao/super_010": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.13333333333333333,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.6166666666666667,
+              "value": [
+                -66.6,
+                102
+              ],
+              "motionPath": []
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 1
+            },
+            {
+              "frame": 0.6166666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": 1
+            },
+            {
+              "frame": 0.6166666666666667,
+              "value": 0
+            }
+          ],
+          "opacity": []
+        }
+      },
+      "paopao/super_011": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            }
+          ],
+          "opacity": [],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                -91.9,
+                -50.5
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

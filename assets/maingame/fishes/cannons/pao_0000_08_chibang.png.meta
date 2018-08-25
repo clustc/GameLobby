@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f5770f56-2b03-4f86-b7b0-0f481cc21d89",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pao_0000_08_chibang": {
+      "ver": "1.0.3",
+      "uuid": "ef175287-df18-44ad-947d-3ef913633d32",
+      "rawTextureUuid": "f5770f56-2b03-4f86-b7b0-0f481cc21d89",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 63,
+      "rawWidth": 96,
+      "rawHeight": 63,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

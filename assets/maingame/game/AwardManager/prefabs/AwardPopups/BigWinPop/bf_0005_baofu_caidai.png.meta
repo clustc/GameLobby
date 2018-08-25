@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "86317780-8e29-49c6-9d03-45d1ef4be2ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bf_0005_baofu_caidai": {
+      "ver": "1.0.3",
+      "uuid": "577aef95-466a-4236-9fa8-99d48b348861",
+      "rawTextureUuid": "86317780-8e29-49c6-9d03-45d1ef4be2ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 259,
+      "height": 69,
+      "rawWidth": 259,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

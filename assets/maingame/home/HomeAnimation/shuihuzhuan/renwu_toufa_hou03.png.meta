@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d2321a1b-2b70-462f-9488-15297322eeac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "renwu_toufa_hou03": {
+      "ver": "1.0.3",
+      "uuid": "ad00caf5-b3d0-46dd-b53b-7802643dfaf5",
+      "rawTextureUuid": "d2321a1b-2b70-462f-9488-15297322eeac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 100,
+      "height": 93,
+      "rawWidth": 100,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

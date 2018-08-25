@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f3099b42-4a01-4054-b7f0-121ba05925bb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "rechargeButton": {
+      "ver": "1.0.3",
+      "uuid": "fafd9a51-4e81-47b7-adb8-2056aebb50b2",
+      "rawTextureUuid": "f3099b42-4a01-4054-b7f0-121ba05925bb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 151,
+      "height": 58,
+      "rawWidth": 151,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

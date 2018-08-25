@@ -1,0 +1,279 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "clip_2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.3333333333333335,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "bf_huangse_sheguang_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 77.80795714293116
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 180
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 190.16003571422402
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 180
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2.5
+            }
+          ]
+        }
+      },
+      "bf_huangse_sheguang_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 180
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.8333333333333333,
+              "value": 180
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 2.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 2.5
+            }
+          ]
+        }
+      },
+      "bf_baofu_gq_1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 3
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 3
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bf_baofu_gq_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 51.20816326530613
+            },
+            {
+              "frame": 1.6333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 49.95918367346941
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1.7571428571428571
+            },
+            {
+              "frame": 1.6333333333333333,
+              "value": 3
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 1.7142857142857149
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1.7571428571428571
+            },
+            {
+              "frame": 1.6333333333333333,
+              "value": 3
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 1.7142857142857149
+            }
+          ]
+        }
+      },
+      "sheguang_fasan_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 360
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 150
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "sheguang_fasan_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 360
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 150
+            },
+            {
+              "frame": 3.3333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

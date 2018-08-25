@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "changjin_yangguang",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 7.516666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "yangguang": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 23
+            },
+            {
+              "frame": 5,
+              "value": -45
+            },
+            {
+              "frame": 7.516666666666667,
+              "value": -45
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 2.5,
+              "value": 255
+            },
+            {
+              "frame": 3.783333333333333,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.39
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 2.5,
+              "value": 1
+            },
+            {
+              "frame": 3.783333333333333,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.48
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 2.5,
+              "value": 1
+            },
+            {
+              "frame": 3.783333333333333,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

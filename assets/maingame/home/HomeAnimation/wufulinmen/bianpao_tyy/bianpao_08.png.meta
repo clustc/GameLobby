@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "64c63dd2-90c8-4934-9af8-15b8d9ef3b62",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bianpao_08": {
+      "ver": "1.0.3",
+      "uuid": "94d61270-b5a9-49b6-9a16-39835118290c",
+      "rawTextureUuid": "64c63dd2-90c8-4934-9af8-15b8d9ef3b62",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -3.5,
+      "trimX": 0,
+      "trimY": 16,
+      "width": 60,
+      "height": 50,
+      "rawWidth": 65,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

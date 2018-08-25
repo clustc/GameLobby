@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cd5913e5-c1f0-4a05-9136-5b5e0fe9c2a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "cannonUnlockNeedDiamond": {
+      "ver": "1.0.3",
+      "uuid": "adb73b8f-4646-400a-8c32-d8623620ac27",
+      "rawTextureUuid": "cd5913e5-c1f0-4a05-9136-5b5e0fe9c2a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 199,
+      "height": 24,
+      "rawWidth": 200,
+      "rawHeight": 24,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

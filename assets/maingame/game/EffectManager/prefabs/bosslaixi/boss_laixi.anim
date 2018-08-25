@@ -1,0 +1,249 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boss_laixi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "boss_0003_dikuang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -1136,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                57,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                -18,
+                0
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "boss_0002_shanguang_01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -967,
+                -38
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                1225,
+                -31
+              ],
+              "motionPath": []
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 2.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 0.6
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "boss_0000_bosslaixi_wenzi": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1162,
+                4
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                55,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -15,
+                0
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ],
+          "skewX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 30
+            },
+            {
+              "frame": 0.25,
+              "value": -15
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            }
+          ],
+          "skewY": [
+            {
+              "frame": 0,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "boss_0002_shanguang_02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                986,
+                39
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -967,
+                41
+              ]
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 0.5
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 2.5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

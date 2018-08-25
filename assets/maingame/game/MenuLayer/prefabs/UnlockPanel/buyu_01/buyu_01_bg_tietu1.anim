@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu_01_bg_tietu1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.25,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "buyu_01_bg_tietu1_zj1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.625,
+              "value": 200
+            },
+            {
+              "frame": 1.25,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

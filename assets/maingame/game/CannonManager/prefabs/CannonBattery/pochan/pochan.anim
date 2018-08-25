@@ -1,0 +1,77 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pochan",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "pochan_wenzi": {
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 6,
+              "curve": [
+                0.64,
+                0.09,
+                0.75,
+                0.33
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": 0.9
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.05
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 6,
+              "curve": [
+                0.4,
+                0.16,
+                0.65,
+                0.1
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": 0.9
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.05
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.25,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

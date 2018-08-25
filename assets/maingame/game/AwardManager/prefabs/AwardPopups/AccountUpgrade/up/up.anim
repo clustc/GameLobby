@@ -1,0 +1,682 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "up",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "shengji_0007_yu": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.3,
+              "value": [
+                -37,
+                -149
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                -36.1,
+                -56.8
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -36.1,
+                -63.8
+              ]
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.3,
+              "value": 1
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0.9
+            },
+            {
+              "frame": 0.5,
+              "value": 1.1
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 0.95
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.3,
+              "value": 1
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1.2
+            },
+            {
+              "frame": 0.5,
+              "value": 0.9
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 1.05
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "shengji_0006_chibang_02": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 255
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.5,
+              "value": 45
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -10
+            },
+            {
+              "frame": 0.75,
+              "value": 5
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shengji_0006_chibang_02/shengji_0005_chibang_faguang_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shengji_0005_chibang_01": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": 255
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.5,
+              "value": -40
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 10
+            },
+            {
+              "frame": 0.75,
+              "value": -5
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shengji_0005_chibang_01/shengji_0005_chibang_faguang_01": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.75,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shengji_0004_huangse_kuang": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1.2
+            },
+            {
+              "frame": 0.25,
+              "value": 0.9
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.05
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1.2
+            },
+            {
+              "frame": 0.25,
+              "value": 0.9
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.05
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "shengji_0003_shengjile_wenzi": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                0,
+                -20
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                0,
+                83
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                0,
+                72.5
+              ]
+            },
+            {
+              "frame": 0.75,
+              "value": [
+                0,
+                74
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1.2
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0.95
+            },
+            {
+              "frame": 0.75,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1.2
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0.95
+            },
+            {
+              "frame": 0.75,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "shengji_0002_shoudai": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.1
+            },
+            {
+              "frame": 0.75,
+              "value": 0.95
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 1.1
+            },
+            {
+              "frame": 0.75,
+              "value": 0.95
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "shengji_0001_xunzhang_01": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.2
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0.95
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.2
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0.95
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "shengji_0001_xunzhang_02": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.2
+            },
+            {
+              "frame": 1,
+              "value": 1.4
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1.2
+            },
+            {
+              "frame": 1,
+              "value": 1.4
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.3333333333333333,
+              "value": 150
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shengji_0000_super_packs_light": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1.2
+            },
+            {
+              "frame": 0.5,
+              "value": 0.9
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.16666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 1.2
+            },
+            {
+              "frame": 0.5,
+              "value": 0.9
+            }
+          ]
+        }
+      },
+      "up_gq_01": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0.5
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0.5
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "up_gq_02": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0.5
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0.8
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.5833333333333334,
+              "value": 0.5
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0.8
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "shengji_0003_shengjile_wenzi2": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1.2
+            },
+            {
+              "frame": 1.5,
+              "value": 1.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1.2
+            },
+            {
+              "frame": 1.5,
+              "value": 1.5
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 150
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bf_0009_huangse_sheguang": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1.2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 1
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 1.2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 30
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

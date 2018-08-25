@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bd7d8a1d-a98d-4a0f-b43e-d2ea64088be6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shengji_0000_super_packs_light": {
+      "ver": "1.0.3",
+      "uuid": "f13f8637-5ea1-4da9-93cd-4c91286e6e19",
+      "rawTextureUuid": "bd7d8a1d-a98d-4a0f-b43e-d2ea64088be6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 115,
+      "height": 98,
+      "rawWidth": 115,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

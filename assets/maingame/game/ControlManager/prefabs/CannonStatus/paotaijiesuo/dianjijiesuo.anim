@@ -1,0 +1,152 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dianjijiesuo",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "paotai_0004_jiantou": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -46
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                -75
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                -46
+              ]
+            }
+          ]
+        }
+      },
+      "paotai_0000_dianji-jiesuo_wenzi": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 0.9
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 0.9
+            },
+            {
+              "frame": 2,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "bingwin7_0002_guangxiao_1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                155.7,
+                68.7
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": [
+                23.5,
+                69.2
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bingwin7_0002_guangxiao_2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                22.3,
+                21.7
+              ]
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": [
+                146.2,
+                22.5
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

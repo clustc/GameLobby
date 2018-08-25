@@ -1,0 +1,163 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pao_up",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "image2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 244.80000000000015
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 30
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 2
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 2.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 2
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 2.5
+            }
+          ]
+        }
+      },
+      "image1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.21666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.3,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 4
+            },
+            {
+              "frame": 0.3,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 4
+            },
+            {
+              "frame": 0.3,
+              "value": 1
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 720
+            }
+          ]
+        }
+      },
+      "bf_0009_huangse_sheguang": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0.6
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0.6
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ],
+          "rotation": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": -60
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f60dfe16-135c-4832-bafe-9774a6194551",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fish_yinshayu_06": {
+      "ver": "1.0.3",
+      "uuid": "dcf2d1d5-2bb5-4eea-8306-4ea6fb989f7d",
+      "rawTextureUuid": "f60dfe16-135c-4832-bafe-9774a6194551",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": 0,
+      "trimX": 5,
+      "trimY": 0,
+      "width": 317,
+      "height": 167,
+      "rawWidth": 324,
+      "rawHeight": 167,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

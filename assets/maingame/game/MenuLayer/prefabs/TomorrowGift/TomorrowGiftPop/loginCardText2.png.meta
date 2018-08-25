@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fbbf4f85-a66a-4c3c-be43-7a8b6dd280c2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "loginCardText2": {
+      "ver": "1.0.3",
+      "uuid": "5bcd7ad5-df1f-4915-ba49-bdd906e6ca9a",
+      "rawTextureUuid": "fbbf4f85-a66a-4c3c-be43-7a8b6dd280c2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 126,
+      "height": 24,
+      "rawWidth": 130,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

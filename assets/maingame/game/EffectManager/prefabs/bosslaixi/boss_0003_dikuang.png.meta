@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a3c6189f-2bc3-410f-ad82-f4364b7b1bf2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "boss_0003_dikuang": {
+      "ver": "1.0.3",
+      "uuid": "fe5a75e3-4543-490d-8f5e-d1099e21ebc9",
+      "rawTextureUuid": "a3c6189f-2bc3-410f-ad82-f4364b7b1bf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 667,
+      "height": 75,
+      "rawWidth": 667,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

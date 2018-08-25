@@ -1,0 +1,171 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "baodaoju",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.3399999999999994,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "bf_huangse_sheguang_1": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 180
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 180
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bf_huangse_sheguang_2": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 180
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 180
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "bf_baofu_gq_1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 1
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "bf_baofu_gq_2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 147.89999999999995
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 152.99999999999997
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0.585714285714286
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0.5714285714285716
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0.585714285714286
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 2.3333333333333335,
+              "value": 0.5714285714285716
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

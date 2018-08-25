@@ -1,0 +1,99 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tehuishangchang",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "tehuishangcheng": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                6
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tehuishangcheng_1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1.2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 1.2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 2,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                0,
+                6
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

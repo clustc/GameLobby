@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "buyu_01_bg_tietu2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0416666666666667,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "buyu_01_bg_tietu2_zj1": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": 1.2
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": 1.2
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5416666666666666,
+              "value": 255
+            },
+            {
+              "frame": 1.0416666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "03f69f9b-43b4-4876-82c9-3b1744d4f7dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "iphone": {
+      "ver": "1.0.3",
+      "uuid": "07506c06-dc35-4dd5-84d3-6e39f30e53fb",
+      "rawTextureUuid": "03f69f9b-43b4-4876-82c9-3b1744d4f7dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 89,
+      "rawWidth": 114,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

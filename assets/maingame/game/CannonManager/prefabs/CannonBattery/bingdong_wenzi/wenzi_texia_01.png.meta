@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "42beacb8-b249-4377-a4b5-676b964248e5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "wenzi_texia_01": {
+      "ver": "1.0.3",
+      "uuid": "2f338b97-a55a-455b-bb50-5dcece3c4be8",
+      "rawTextureUuid": "42beacb8-b249-4377-a4b5-676b964248e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 2.5,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 290,
+      "height": 80,
+      "rawWidth": 296,
+      "rawHeight": 85,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

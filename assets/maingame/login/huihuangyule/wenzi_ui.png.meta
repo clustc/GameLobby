@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0e9e8406-109d-4d62-8e10-7820950ec07c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "wenzi_ui": {
+      "ver": "1.0.3",
+      "uuid": "c53a3018-742f-46e1-a56f-d9e880565072",
+      "rawTextureUuid": "0e9e8406-109d-4d62-8e10-7820950ec07c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 0,
+      "trimY": 4,
+      "width": 579,
+      "height": 451,
+      "rawWidth": 579,
+      "rawHeight": 455,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
